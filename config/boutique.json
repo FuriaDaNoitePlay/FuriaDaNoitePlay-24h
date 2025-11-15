@@ -1,10 +1,15 @@
 {
   "nome": "FuriaDaNoitePlay",
   "numero": "31997319008",
-  "hashtags": ["#FuriaBoutique", "#FuriaMarca", "#PlayNoControle"],
+  "hashtags": ["#FuriaBoutique", "#FuriaMarca", "#PlayNoControle", "#FuriaNoControle", "#DemarcacaoOficial"],
   "demarcacoes": {
     "avisos": "🛍️ BOUTIQUE OFICIAL | FuriaDaNoitePlay",
     "contato": "📞 31997319008",
-    "comunidade": "🏷️ Demarcações exclusivas"
+    "comunidade": "🏷️ Demarcações exclusivas - Marcação @everyone"
+  },
+  "configuracoes": {
+    "frequencia_demarcacao": 15,
+    "marcar_todos": true,
+    "avisos_automaticos": true
   }
 }
